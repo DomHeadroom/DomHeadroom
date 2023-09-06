@@ -24,9 +24,9 @@
 
 ### 📊 Stats
 
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Domefemia&show_icons=true&theme=github_dark_dimmed)
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Domefemia&show_icons=true&title_color=fff&icon_color=51ae4a&text_color=9f9f9f&bg_color=151515)
 
 #
 
 ### 🎧 Entertainment
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&background_color=24292f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&background_color=151515&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&redirect=true)
