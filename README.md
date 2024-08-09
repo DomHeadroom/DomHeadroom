@@ -26,9 +26,9 @@
 
 ### 📊 Stats
 
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DomHeadroom&show_icons=true&title_color=fff&icon_color=51ae4a&text_color=9f9f9f&bg_color=151515)
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DomHeadroom&show_icons=true&title_color=fff&icon_color=51ae4a&text_color=9f9f9f&bg_color=121212)
 
 #
 
 ### 🎧 Entertainment
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&background_color=151515&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jepayxl&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=jepayxl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
